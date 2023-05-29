@@ -22,9 +22,11 @@ public class SeparateUtils {
      *
      * @param programOptionsChannelDefinition
      *                     - Program Options
+     * @param programOptionsConnectDefinition ToDo
+     * @param programOptionsServerDefinition ToDo
      * @param clientConfig - Client Config for splitting. Resulting config will be placed back in this variable
      * @param userConfig   - User Folder Config
-     * @return
+     * @return ToDo
      */
     public static boolean separateClientConfig(ServerDefinition programOptionsServerDefinition,
                                                ChannelDefinition programOptionsChannelDefinition,
@@ -311,10 +313,10 @@ public class SeparateUtils {
     /**
      * Find module definition in program options for converting needs
      *
-     * @param programOptionsChannelDefinition
-     *
-     * @param clientModuleDefinition
-     * @return
+     * @param programOptionsChannelDefinition ToDo
+     * @param clientModuleDefinition ToDo
+     * @param programOptionsMatchedModulesNames ToDo
+     * @return ToDo
      */
 
     public static ModuleDefinition findModuleDefinition(ChannelDefinition programOptionsChannelDefinition,

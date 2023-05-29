@@ -11,9 +11,11 @@ public class StringUtils {
   }
 
   /**
-   * Parse command line params ( <paramName>=<ParamValue>)
+   * Parse command line params ( &lt;paramName&gt;=&lt;ParamValue&gt;)
    *
-   * @param paramName
+   * @param paramName ToDo
+   * @param args ToDo
+   * @param defaultValue ToDo
    * @return param value from command line or default value
    */
   public static String getParamFromCommandLine(String[] args, String paramName, String defaultValue) {
@@ -63,8 +65,8 @@ public class StringUtils {
   /**
    * Works correctly with non printable characters
    *
-   * @param s
-   * @return
+   * @param s ToDo
+   * @return ToDo
    */
   public static String trim(String s) {
     int pos2 = s.length() - 1;
