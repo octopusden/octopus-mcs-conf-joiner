@@ -15,8 +15,8 @@ public interface IParameterStorage {
      * Inserts the specified element at the specified position in this list.
      * Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices).
      *
-     * @param index
-     * @param parameter
+     * @param index ToDo
+     * @param parameter ToDo
      */
     void addParameter(int index, Parameter parameter);
 
@@ -29,7 +29,7 @@ public interface IParameterStorage {
     /**
      * get Parameter from storage
      *
-     * @param paramName
+     * @param paramName ToDo
      * @return Parameter if found, null otherwise
      */
     Parameter getParameter(String paramName);
@@ -39,7 +39,7 @@ public interface IParameterStorage {
     int getParameterCount();
 
     /**
-     * @param paramName
+     * @param paramName ToDo
      * @return param Value if present, null otherwise
      */
     String getParameterValue(String paramName);

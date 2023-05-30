@@ -14,7 +14,7 @@ public class FileUtils {
     /**
      * Deletes the directory and all it's subdirectories.
      *
-     * @param dir
+     * @param dir ToDo
      * @return <code>true</code> if and only if the directory is
      *         successfully deleted; <code>false</code> otherwise
      */
@@ -71,6 +71,8 @@ public class FileUtils {
    * Procedure separates filepath into Path and FileName.
    *
    * @param FilePath - Input File Path
+   * @param DirName ToDo
+   * @param FileName ToDo
    * @return true if succesful, false otherwise
    */
   public static boolean devideFilePathIntoParts( String FilePath,
