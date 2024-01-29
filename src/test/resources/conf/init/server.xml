@@ -15,17 +15,17 @@
     <PARAMETER NAME="CFILE" VALUE="conf/init/monitor.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
-  <CHANNEL NAME="HSM_XFACE_1">
+  <CHANNEL NAME="XSM_XFACE_1">
     <PARAMETER NAME="AUTOSTART" VALUE="1"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/hsmxftcp_1.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/xsmxftcp_1.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
-    <PARAMETER NAME="DIRECTORY" VALUE="hsmxface/"/>
+    <PARAMETER NAME="DIRECTORY" VALUE="xsmxface/"/>
   </CHANNEL>
-  <CHANNEL NAME="HSM_XFACE_2">
+  <CHANNEL NAME="XSM_XFACE_2">
     <PARAMETER NAME="AUTOSTART" VALUE="1"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/hsmxftcp_2.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/xsmxftcp_2.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
-    <PARAMETER NAME="DIRECTORY" VALUE="hsmxface/"/>
+    <PARAMETER NAME="DIRECTORY" VALUE="xsmxface/"/>
   </CHANNEL>
   <CHANNEL NAME="OWN_AUTH_1">
     <PARAMETER NAME="AUTOSTART" VALUE="2"/>

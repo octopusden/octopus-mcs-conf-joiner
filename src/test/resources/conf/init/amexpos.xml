@@ -74,6 +74,6 @@
     <PARAMETER NAME="DEBUG" VALUE="OFF"/>
   </MODULE>
   <MODULE TYPE="ROUTING">
-    <PARAMETER NAME="CFILE" VALUE="conf/tables/hsmroutes.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/tables/xsmroutes.xml"/>
   </MODULE>
 </CHANNEL>
