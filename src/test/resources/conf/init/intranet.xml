@@ -21,12 +21,12 @@
   <MODULE TYPE="INTERNAL">
     <PARAMETER NAME="DLL" VALUE="intranet/libintranet.so"/>
     <PARAMETER NAME="FUNCTION" VALUE="INTRA_INTERNAL"/>
-    <PARAMETER NAME="SERVER_2" VALUE="865" COMMENT="way4u_ir_bal first instance"/>
-    <!--PARAMETER NAME="SERVER_2" VALUE="866" COMMENT="backup way4u_ir_bal second instance"/-->
-    <PARAMETER NAME="SERVER_3" VALUE="858" COMMENT="way4u city+ first instance"/>
-    <!--PARAMETER NAME="SERVER_3" VALUE="860" COMMENT="backup way4u city+ second instance"/-->
-    <PARAMETER NAME="SERVER_4" VALUE="863" COMMENT="way4u cash-in first instance"/>
-    <!--PARAMETER NAME="SERVER_4" VALUE="864" COMMENT="backup way4u cash-in second instance"/-->
+    <PARAMETER NAME="SERVER_2" VALUE="865" COMMENT="wow4u_ir_bal first instance"/>
+    <!--PARAMETER NAME="SERVER_2" VALUE="866" COMMENT="backup wow4u_ir_bal second instance"/-->
+    <PARAMETER NAME="SERVER_3" VALUE="858" COMMENT="wow4u city+ first instance"/>
+    <!--PARAMETER NAME="SERVER_3" VALUE="860" COMMENT="backup wow4u city+ second instance"/-->
+    <PARAMETER NAME="SERVER_4" VALUE="863" COMMENT="wow4u cash-in first instance"/>
+    <!--PARAMETER NAME="SERVER_4" VALUE="864" COMMENT="backup wow4u cash-in second instance"/-->
     <PARAMETER NAME="DEBUG" VALUE="OFF"/>
   </MODULE>
   <MODULE TYPE="ROUTING">
