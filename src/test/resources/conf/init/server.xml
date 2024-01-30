@@ -47,7 +47,7 @@
   </CHANNEL>
   <CHANNEL NAME="X2X_BB2">
     <PARAMETER NAME="AUTOSTART" VALUE="3"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb2.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb2.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
@@ -452,91 +452,91 @@
     <!--PARAMETER NAME="AUTOSTART" VALUE="NO"/-->
 
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab1.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab1.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB4">
     <PARAMETER NAME="AUTOSTART" VALUE="25"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab4.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab4.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB5">
     <PARAMETER NAME="AUTOSTART" VALUE="25"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab5.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab5.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_BB4">
     <PARAMETER NAME="AUTOSTART" VALUE="26"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb4.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb4.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB3">
     <PARAMETER NAME="AUTOSTART" VALUE="26"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab3.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab3.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_BB6">
     <PARAMETER NAME="AUTOSTART" VALUE="26"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb6.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb6.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB6">
     <PARAMETER NAME="AUTOSTART" VALUE="27"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab6.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab6.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB9">
     <PARAMETER NAME="AUTOSTART" VALUE="27"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab9.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab9.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_BB5">
     <!--PARAMETER NAME="AUTOSTART" VALUE="NO"/-->
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb5.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb5.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_BB3">
     <!--PARAMETER NAME="AUTOSTART" VALUE="NO"/-->
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb3.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb3.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_BB7">
     <PARAMETER NAME="AUTOSTART" VALUE="27"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb7.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb7.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB8">
     <PARAMETER NAME="AUTOSTART" VALUE="28"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab8.xml"/> 
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab8.xml"/> 
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB7_MC">
     <PARAMETER NAME="AUTOSTART" VALUE="28"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab7_mc.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab7_mc.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_BB1">
     <PARAMETER NAME="AUTOSTART" VALUE="NO"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_bb1.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_bb1.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
   </CHANNEL>
   <CHANNEL NAME="X2X_AB2">
     <PARAMETER NAME="AUTOSTART" VALUE="NO"/>
     <PARAMETER NAME="DIRECTORY" VALUE="x2xxface/"/>
-    <PARAMETER NAME="CFILE" VALUE="conf/init/h2h_ab2.xml"/>
+    <PARAMETER NAME="CFILE" VALUE="conf/init/x2x_ab2.xml"/>
     <PARAMETER NAME="FILENAME" VALUE="channel/channel"/>
   </CHANNEL>
 </MULTICHANNELSERVER>
